@@ -1,16 +1,20 @@
-## Hi there 👋
+⭐ Saurav Thakulla
+🔥 Developer in Progress | JavaScript • Node.js • Frontend • DSA
+🔥 About Me
 
-<!--
-**SaurabhThakulla/SaurabhThakulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm Saurav — a passionate learner who enjoys building clean and minimal web projects.
+💡 Currently learning JavaScript, Node.js, and improving my DSA foundation every day.
+🚀 I love creating mini-projects, exploring new ideas, and growing consistently.
+✨ Becoming a better developer — one line of code at a time.
 
-Here are some ideas to get you started:
+🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💛 JavaScript • 🌐 HTML • 🎨 CSS
+⚙️ Node.js • 📦 Express.js (learning)
+🐱 Git & GitHub • 🔧 VS Code
+
+📌 Current Focus
+
+🌟 DSA (Arrays, Hashing, Two-Pointers)
+🌐 Frontend UI with HTML + CSS
+⚡ Backend basics with Node.js
