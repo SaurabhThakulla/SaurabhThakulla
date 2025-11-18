@@ -1,30 +1,20 @@
 ⭐ Saurav Thakulla
 
-Aspiring Full-Stack Developer | JavaScript • Node.js • React • Frontend • DSA
+Full-Stack Developer in Progress | JavaScript • React • Node.js • DSA
 
 About Me
 
-I’m Saurav, a self-taught learner who enjoys building clean and simple projects.
-I’ve been learning JavaScript, React, Node.js, and DSA for the past few years, improving step by step.
+I’m Saurav, a consistent learner who enjoys creating clean and simple projects.
+Over the past few years, I’ve been improving my skills in JavaScript, React, Node.js, and DSA.
 
-Tech Stack
+Skills
 
-HTML, CSS
-
-JavaScript
-
-React
-
-Node.js, Express.js 
-
-MongoDB 
-
-Git & GitHub
+Frontend: HTML, CSS, React
+Backend: Node.js, Express.js (learning), MongoDB (beginner)
+Tools: Git, GitHub
 
 Current Focus
 
-DSA (Arrays, Hashing, Two-Pointers)
-
-Frontend UI with React
-
-Backend fundamentals with Node.js
+Strengthening DSA
+Building better frontend UI
+Learning backend fundamentals
