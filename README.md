@@ -10,7 +10,7 @@
 🚀 Tech Stack
 
 💛 JavaScript • 🌐 HTML • 🎨 CSS
-⚙️ Node.js • 📦 Express.js (learning)
+⚙️ Node.js • 📦 Express.js (learning)• 🌐 React 🐱 Mongodb
 🐱 Git & GitHub • 🔧 VS Code
 
 📌 Current Focus
