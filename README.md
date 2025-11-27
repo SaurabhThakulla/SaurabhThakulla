@@ -1,6 +1,6 @@
 ⭐ Saurav Thakulla
 
-Full-Stack Developer in Progress | JavaScript • React • Node.js • DSA
+Full-Stack Web Developer | JavaScript • React • Node.js • DSA
 
 About Me
 
@@ -9,8 +9,8 @@ Over the past few years, I’ve been improving my skills in JavaScript, React, N
 
 Skills
 
-Frontend: HTML, CSS, React
-Backend: Node.js, Express.js (learning), MongoDB (beginner)
+Frontend: HTML, CSS, React, Tailwind
+Backend: Node.js, Express.js, MongoDB
 Tools: Git, GitHub
 
 Current Focus
