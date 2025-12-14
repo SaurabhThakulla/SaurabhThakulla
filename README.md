@@ -17,5 +17,5 @@ Tools: Git, GitHub
 ⭐ Current Focus
 
 Strengthening DSA
-Building better frontend UI
+Building better frontend UI and Optimizing
 Learning backend fundamentals
