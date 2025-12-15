@@ -12,7 +12,7 @@ Over the past few years, I’ve been improving my skills in JavaScript, React, N
 Frontend: HTML, CSS, React, Tailwind
 Backend: Node.js, Express.js
 Database: Mongodb, Postgress
-Tools: Git, GitHub
+Tools: Git, GitHub, Gitlab
 
 ⭐ Current Focus
 
