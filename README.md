@@ -17,4 +17,4 @@ Tools: Git, GitHub, Gitlab
 
 Strengthening DSA
 Building better frontend UI and Optimizing
-Learning backend fundamentals
+Learning backend fundamentals.
