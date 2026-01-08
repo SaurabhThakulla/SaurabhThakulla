@@ -16,5 +16,6 @@ Tools: Git, GitHub, Gitlab
 ⭐ Current Focus
 
 Strengthening DSA
+System Architecture design
 Building better frontend UI and Optimizing
 Learning backend fundamentals.
