@@ -8,14 +8,14 @@ I’m Saurav, a consistent learner who enjoys creating clean and simple projects
 
 ⭐ Skills
 
-Frontend: HTML, CSS, React, Tailwind
-Backend: Node.js, Express.js
-Database: Mongodb, Postgress
-Tools: Git, GitHub, Gitlab
+* Frontend: HTML, CSS, React, Tailwind
+* Backend: Node.js, Express.js
+* Database: Mongodb, Postgress
+* Tools: Git, GitHub, Gitlab
 
 ⭐ Current Focus
 
-Strengthening DSA
-System Architecture design
-Building better frontend UI and Optimizing
-Learning backend fundamentals.
+* Strengthening DSA.
+* System Architecture design.
+* Building better frontend UI and Optimizing.
+* Learning backend fundamentals.
