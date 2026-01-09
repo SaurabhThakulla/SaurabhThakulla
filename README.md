@@ -16,6 +16,6 @@ I’m Saurav, a consistent learner who enjoys creating clean and simple projects
 ⭐ Current Focus
 
 * Strengthening DSA.
-* System Architecture design.
+* System Architecture designing.
 * Building better frontend UI and Optimizing.
 * Learning backend fundamentals.
