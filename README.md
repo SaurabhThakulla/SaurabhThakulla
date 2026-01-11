@@ -12,6 +12,7 @@ I’m Saurav, a consistent learner who enjoys creating clean and simple projects
 * Backend: Node.js, Express.js
 * Database: Mongodb, Postgress
 * Tools: Git, GitHub, Gitlab
+* Languages : C , C++, Javascript, TypeScript
 
 ⭐ Current Focus
 
