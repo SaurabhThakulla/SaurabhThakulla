@@ -1,6 +1,6 @@
 ⭐ Saurav Thakulla
 
-Full-Stack Web Developer | JavaScript • React • Node.js • DSA
+Full-Stack Web Developer | JavaScript • TypeScript • React • Node.js • DSA
 
 About Me
 
