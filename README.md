@@ -10,13 +10,14 @@ I’m Saurav, a consistent learner who enjoys creating clean and simple projects
 
 * Frontend: HTML, CSS, React, Tailwind
 * Backend: Node.js, Express.js
-* Nextjs
+* Next.js
 * Database: Mongodb, Postgress
 * Tools: Git, GitHub, Gitlab,Diagram.io
 * Languages : C , C++, Javascript, TypeScript
 
 ⭐ Current Focus
 
+* Learning Next.js.
 * Strengthening DSA.
 * System Architecture designing.
 * Building better frontend UI and Optimizing.
