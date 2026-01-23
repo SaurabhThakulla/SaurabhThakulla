@@ -8,12 +8,17 @@ I’m Saurav, a consistent learner who enjoys creating clean and simple projects
 
 ⭐ Skills
 
-* Frontend: HTML, CSS, React, Tailwind
+* Frontend: HTML, CSS, React
 * Backend: Node.js, Express.js
 * Next.js
 * Database: Mongodb, Postgress
-* Tools: Git, GitHub, Gitlab,Diagram.io
+* Tools: Git, GitHub, Gitlab, Diagram.io,ThunderClient,Postman(Basic)
 * Languages : C , C++, Javascript, TypeScript
+*    ->Libaries
+*       shadcn
+*       Framer Motion (basic animations)
+*       Tailwind CSS
+*       TanStack Query (React Query)
 
 ⭐ Current Focus
 
