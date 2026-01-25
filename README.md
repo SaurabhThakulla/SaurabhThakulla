@@ -23,7 +23,8 @@ I’m Saurav, a consistent learner who enjoys creating clean and simple projects
 * Next.js  
 * Database: Mongodb, Postgress  
 * Tools: Git, GitHub, Gitlab, Diagram.io,ThunderClient,Postman(Basic)  
-* Languages : C , C++, Javascript, TypeScript  
+* Languages : C , C++, Javascript, TypeScript
+* Discord bots
 
 **→ Libaries**
 * shadcn  
