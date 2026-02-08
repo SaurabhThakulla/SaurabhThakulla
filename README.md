@@ -1,88 +1,35 @@
-<h1 align="center">⭐ Saurav Thakulla</h1>
+<h2 align="center">👺 Saurav Thakulla</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;JavaScript+%7C+TypeScript+%7C+React;Node.js+%7C+DSA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=800&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+TypeScript;Clean+UI+%7C+Performance+Focused" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sauravthakulla&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I’m Saurav, a consistent learner who enjoys creating clean and simple projects.  
-I’ve been improving my skills in **JavaScript, React, Node.js, and DSA**.
-
----
-
-## ⭐ Skills
-
-**Frontend**
-- HTML  
-- CSS  
-- React  
-
-**Backend**
-- Node.js  
-- Express.js  
-
-**Frameworks**
-- Next.js  
-
-**Database**
-- MongoDB  
-- PostgreSQL  
-
-**Tools**
-- Git  
-- GitHub  
-- GitLab  
-- Diagram.io  
-- Thunder Client  
-- Postman (Basic)
-
-**Languages**
-- C  
-- C++  
-- JavaScript  
-- TypeScript  
-
-**Other**
-- Discord Bots  
-
-### 📦 Libraries
-- shadcn/ui  
-- Framer Motion (basic animations)  
-- Tailwind CSS  
-- TanStack Query (React Query)  
-
----
-
-## 🎯 Current Focus
-
-- Learning Next.js  
-- Strengthening DSA  
-- System Architecture Designing  
-- Building better frontend UI & optimization  
-- Learning backend fundamentals  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravthakulla&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravthakulla&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravthakulla&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=sauravthakulla&label=views&color=00fff7&style=flat" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+### 🧠 Profile
+Full-stack developer focused on **clean UI**, **scalable architecture**, and **performance-first builds**.  
+Strong in **React, Node.js, TypeScript**, and **DSA fundamentals**.
 
-![Saurav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sauravthakulla&theme=react-dark)
+---
+
+### 🧩 Selected Projects
+- **AURA** – React-based social platform (UI, feeds, optimization)  
+- **Student Marketplace** – Frontend-only marketplace (HTML + CSS)  
+- **Discord Bots** – Utility & automation bots  
+
+---
+
+### ⚡ Tech Stack
+`React` · `Node.js` · `TypeScript` · `JavaScript` · `Tailwind` · `shadcn/ui` · `MongoDB` · `PostgreSQL`
+
+---
+
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravthakulla&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravthakulla&theme=tokyonight&hide_border=true" height="150"/>
+</p>
