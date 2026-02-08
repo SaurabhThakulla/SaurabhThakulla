@@ -1,68 +1,86 @@
 <h2 align="center">👺 Saurav Thakulla</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=800&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI+%7C+System+Design+%7C+Performance" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=800&center=true&vCenter=true&width=520&lines=System-Oriented+Full-Stack+Developer;Architecture+%7C+Scalability+%7C+Performance" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sauravthakulla&label=views&color=00fff7&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships-00fff7?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-00fff7?style=flat" />
 </p>
 
 ---
 
-## 🌌 Skill Architecture (Radial Tech Tree)
+## 🌌 Architecture Skill Tree (Basic → Advanced)
 
 <p align="center">
 
-<svg width="520" height="520" viewBox="0 0 520 520">
+<svg width="560" height="560" viewBox="0 0 560 560">
 
-  <!-- Neon glow -->
+  <!-- Glow -->
   <defs>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
 
+  <!-- Rings -->
+  <circle cx="280" cy="280" r="70" fill="none" stroke="#00fff7" stroke-width="1"/>
+  <circle cx="280" cy="280" r="140" fill="none" stroke="#00fff7" stroke-width="1"/>
+  <circle cx="280" cy="280" r="210" fill="none" stroke="#00fff7" stroke-width="1"/>
+
   <!-- Center -->
-  <circle cx="260" cy="260" r="38" fill="#000" stroke="#00fff7" stroke-width="3" filter="url(#glow)">
-    <animate attributeName="r" values="36;40;36" dur="2s" repeatCount="indefinite"/>
+  <circle cx="280" cy="280" r="32" fill="#000" stroke="#00fff7" stroke-width="3" filter="url(#glow)">
+    <animate attributeName="r" values="30;34;30" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="260" y="265" text-anchor="middle" fill="#00fff7" font-size="11">Saurav</text>
+  <text x="280" y="285" fill="#00fff7" font-size="11" text-anchor="middle">YOU</text>
 
-  <!-- Lines -->
-  <g stroke="#00fff7" stroke-width="2" filter="url(#glow)">
-    <line x1="260" y1="260" x2="260" y2="120"/>
-    <line x1="260" y1="260" x2="400" y2="200"/>
-    <line x1="260" y1="260" x2="400" y2="320"/>
-    <line x1="260" y1="260" x2="260" y2="400"/>
-    <line x1="260" y1="260" x2="120" y2="320"/>
-    <line x1="260" y1="260" x2="120" y2="200"/>
-  </g>
+  <!-- BASIC -->
+  <a href="https://github.com/sauravthakulla">
+    <circle cx="280" cy="210" r="20" fill="#000" stroke="#00fff7" stroke-width="2" filter="url(#glow)"/>
+    <text x="280" y="215" fill="#00fff7" font-size="9" text-anchor="middle">HTML/CSS</text>
+  </a>
 
-  <!-- Nodes -->
-  <g fill="#000" stroke="#00fff7" stroke-width="2" filter="url(#glow)">
-    <circle cx="260" cy="110" r="24"/>
-    <circle cx="410" cy="200" r="24"/>
-    <circle cx="410" cy="320" r="24"/>
-    <circle cx="260" cy="410" r="24"/>
-    <circle cx="110" cy="320" r="24"/>
-    <circle cx="110" cy="200" r="24"/>
-  </g>
+  <a href="https://github.com/sauravthakulla">
+    <circle cx="340" cy="280" r="20" fill="#000" stroke="#00fff7" stroke-width="2"/>
+    <text x="340" y="285" fill="#00fff7" font-size="9" text-anchor="middle">JS</text>
+  </a>
 
-  <!-- Labels -->
-  <g fill="#00fff7" font-size="10" text-anchor="middle">
-    <text x="260" y="105">DSA</text>
-    <text x="410" y="195">Frontend</text>
-    <text x="410" y="315">Backend</text>
-    <text x="260" y="425">Databases</text>
-    <text x="110" y="335">System Design</text>
-    <text x="110" y="195">Languages</text>
-  </g>
+  <!-- INTERMEDIATE -->
+  <a href="https://github.com/sauravthakulla">
+    <circle cx="280" cy="140" r="22" fill="#000" stroke="#00fff7" stroke-width="2"/>
+    <text x="280" y="145" fill="#00fff7" font-size="9" text-anchor="middle">React</text>
+  </a>
+
+  <a href="https://github.com/sauravthakulla">
+    <circle cx="420" cy="280" r="22" fill="#000" stroke="#00fff7" stroke-width="2"/>
+    <text x="420" y="285" fill="#00fff7" font-size="9" text-anchor="middle">Node</text>
+  </a>
+
+  <a href="https://github.com/sauravthakulla">
+    <circle cx="280" cy="420" r="22" fill="#000" stroke="#00fff7" stroke-width="2"/>
+    <text x="280" y="425" fill="#00fff7" font-size="9" text-anchor="middle">DB</text>
+  </a>
+
+  <!-- ADVANCED -->
+  <a href="https://github.com/sauravthakulla">
+    <circle cx="280" cy="70" r="24" fill="#000" stroke="#00fff7" stroke-width="2"/>
+    <text x="280" y="75" fill="#00fff7" font-size="9" text-anchor="middle">System Design</text>
+  </a>
+
+  <a href="https://github.com/sauravthakulla">
+    <circle cx="490" cy="280" r="24" fill="#000" stroke="#00fff7" stroke-width="2"/>
+    <text x="490" y="285" fill="#00fff7" font-size="9" text-anchor="middle">Scalability</text>
+  </a>
+
+  <a href="https://github.com/sauravthakulla">
+    <circle cx="70" cy="280" r="24" fill="#000" stroke="#00fff7" stroke-width="2"/>
+    <text x="70" y="285" fill="#00fff7" font-size="9" text-anchor="middle">Performance</text>
+  </a>
 
 </svg>
 
@@ -70,21 +88,17 @@
 
 ---
 
-## 🧠 Core Stack
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express`  
-`Tailwind` · `shadcn/ui` · `MongoDB` · `PostgreSQL`
+## 🧠 Architecture Stack
+`React` · `Node.js` · `TypeScript` · `Express`  
+`REST APIs` · `State Management` · `DSA`  
+`MongoDB` · `PostgreSQL`
 
 ---
 
 ## 🧩 Projects
-- 🔗 **AURA** — React social platform  
-  👉 https://github.com/sauravthakulla/AURA
-
-- 🔗 **Student Marketplace** — UI-focused frontend  
-  👉 https://github.com/sauravthakulla/student-marketplace
-
-- 🔗 **Discord Bots** — automation & utilities  
-  👉 https://github.com/sauravthakulla/discord-bots
+- 🔗 **AURA** → https://github.com/sauravthakulla/AURA  
+- 🔗 **Student Marketplace** → https://github.com/sauravthakulla/student-marketplace  
+- 🔗 **Discord Bots** → https://github.com/sauravthakulla/discord-bots  
 
 ---
 
