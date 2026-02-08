@@ -12,32 +12,77 @@
 
 ## 🧑‍💻 About Me
 
-I’m Saurav, a consistent learner who enjoys creating clean and simple projects.I’ve been improving my skills in JavaScript, React, Node.js, and DSA.
+I’m Saurav, a consistent learner who enjoys creating clean and simple projects.  
+I’ve been improving my skills in **JavaScript, React, Node.js, and DSA**.
 
 ---
 
 ## ⭐ Skills
 
-* Frontend: HTML, CSS, React  
-* Backend: Node.js, Express.js  
-* Next.js  
-* Database: Mongodb, Postgress  
-* Tools: Git, GitHub, Gitlab, Diagram.io,ThunderClient,Postman(Basic)  
-* Languages : C , C++, Javascript, TypeScript
-* Discord bots
+**Frontend**
+- HTML  
+- CSS  
+- React  
 
-**→ Libaries**
-* shadcn  
-* Framer Motion (basic animations)  
-* Tailwind CSS  
-* TanStack Query (React Query)
+**Backend**
+- Node.js  
+- Express.js  
+
+**Frameworks**
+- Next.js  
+
+**Database**
+- MongoDB  
+- PostgreSQL  
+
+**Tools**
+- Git  
+- GitHub  
+- GitLab  
+- Diagram.io  
+- Thunder Client  
+- Postman (Basic)
+
+**Languages**
+- C  
+- C++  
+- JavaScript  
+- TypeScript  
+
+**Other**
+- Discord Bots  
+
+### 📦 Libraries
+- shadcn/ui  
+- Framer Motion (basic animations)  
+- Tailwind CSS  
+- TanStack Query (React Query)  
 
 ---
 
 ## 🎯 Current Focus
 
-* Learning Next.js.  
-* Strengthening DSA.  
-* System Architecture designing.  
-* Building better frontend UI and Optimizing.  
-* Learning backend fundamentals.
+- Learning Next.js  
+- Strengthening DSA  
+- System Architecture Designing  
+- Building better frontend UI & optimization  
+- Learning backend fundamentals  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravthakulla&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravthakulla&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravthakulla&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+![Saurav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sauravthakulla&theme=react-dark)
