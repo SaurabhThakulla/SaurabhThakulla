@@ -1,12 +1,14 @@
 <h2 align="center">👺 Saurav Thakulla</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=800&center=true&vCenter=true&width=520&lines=Architecture+%7C+Scalability+%7C+Performance" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=800&center=true&vCenter=true&width=650&lines=Architecture+%7C+Scalability+%7C+Performance;Bots+Creation+%7C+Automation;Backend+Development+%7C+APIs;Frontend+Development+%7C+UI%2FUX;DevOps+%7C+CI%2FCD+%7C+Cloud" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sauravthakulla&label=views&color=00fff7&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships-00fff7?style=flat" />
+ <img src="https://komarev.com/ghpvc/?username=sauravthakulla&label=Profile%20Views&color=000000&labelColor=0d1117&style=for-the-badge" />
+
+ <img src="https://img.shields.io/badge/Internship-Mentodesk-00fff7?style=for-the-badge&labelColor=0d1117" />
+
 </p>
 
 ---
@@ -19,7 +21,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=00fff7"/>
-  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoColor=00fff7" />
   <img src="https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=00fff7"/>
   <img src="https://img.shields.io/badge/NEXT.JS-000?style=for-the-badge&logo=next.js&logoColor=00fff7"/>
   <img src="https://img.shields.io/badge/TAILWIND-000?style=for-the-badge&logo=tailwindcss&logoColor=00fff7"/>
@@ -61,7 +63,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/REDIS-000?style=for-the-badge&logo=redis&logoColor=00fff7"/>
   <img src="https://img.shields.io/badge/KAFKA-000?style=for-the-badge&logo=apachekafka&logoColor=00fff7"/>
-  <img src="https://img.shields.io/badge/GRPC-000?style=for-the-badge&logo=grpc&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/gRPC-000?style=for-the-badge&logo=google&logoColor=white" />
+
 </p>
 
 ---
