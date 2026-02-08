@@ -1,41 +1,161 @@
-<svg width="560" height="560" viewBox="0 0 560 560" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%"
+     viewBox="-350 -50 1900 800"
+     preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg">
 
+  <!-- ================= DEFS ================= -->
   <defs>
+    <!-- Base glow -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <!-- Strong hover glow -->
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Animations -->
+    <style>
+      .node {
+        transform-origin: center;
+        animation: breathe 4.5s ease-in-out infinite;
+        transition: filter 0.25s ease, transform 0.25s ease;
+      }
+
+      .node:hover {
+        filter: url(#glow-strong);
+        transform: scale(1.05);
+      }
+
+      .slow { animation-delay: 1.5s; }
+      .slower { animation-delay: 3s; }
+
+      @keyframes breathe {
+        0%   { transform: scale(1); }
+        50%  { transform: scale(1.02); }
+        100% { transform: scale(1); }
+      }
+    </style>
   </defs>
 
-  <circle cx="280" cy="280" r="70" fill="none" stroke="#00fff7"/>
-  <circle cx="280" cy="280" r="140" fill="none" stroke="#00fff7"/>
-  <circle cx="280" cy="280" r="210" fill="none" stroke="#00fff7"/>
-
-  <circle cx="280" cy="280" r="32" fill="#000" stroke="#00fff7" stroke-width="3" filter="url(#glow)"/>
-  <text x="280" y="285" fill="#00fff7" font-size="11" text-anchor="middle">YOU</text>
-
-  <g stroke="#00fff7" stroke-width="2">
-    <line x1="280" y1="280" x2="280" y2="70"/>
-    <line x1="280" y1="280" x2="490" y2="280"/>
-    <line x1="280" y1="280" x2="70" y2="280"/>
+  <!-- ================= CENTER ================= -->
+  <g class="node">
+    <rect x="350" y="250" rx="26" width="200" height="56"
+          fill="#050b12" stroke="#00fff7" stroke-width="2"
+          filter="url(#glow)"/>
+    <text x="450" y="285" fill="#00fff7"
+          text-anchor="middle" font-weight="bold">
+      TECH STACK
+    </text>
   </g>
 
-  <a href="https://github.com/sauravthakulla">
-    <circle cx="280" cy="70" r="22" fill="#000" stroke="#00fff7"/>
-    <text x="280" y="75" fill="#00fff7" font-size="9" text-anchor="middle">System Design</text>
-  </a>
+  <!-- ================= TRUNKS ================= -->
+  <g stroke-width="2" fill="none">
+    <path d="M450 250 L450 165" stroke="#00fff7"/>
+    <path d="M550 278 L660 278" stroke="#8be9fd"/>
+    <path d="M450 306 L450 420" stroke="#50fa7b"/>
+    <path d="M350 278 L240 278" stroke="#bd93f9"/>
+  </g>
 
-  <a href="https://github.com/sauravthakulla">
-    <circle cx="490" cy="280" r="22" fill="#000" stroke="#00fff7"/>
-    <text x="490" y="285" fill="#00fff7" font-size="9" text-anchor="middle">Scalability</text>
-  </a>
+  <!-- ================= FRONTEND ================= -->
+  <g class="node">
+    <rect x="335" y="125" rx="24" width="230" height="50"
+          fill="#050b12" stroke="#00fff7" stroke-width="2"/>
+    <text x="450" y="158" fill="#00fff7" text-anchor="middle">FRONTEND</text>
+  </g>
 
-  <a href="https://github.com/sauravthakulla">
-    <circle cx="70" cy="280" r="22" fill="#000" stroke="#00fff7"/>
-    <text x="70" y="285" fill="#00fff7" font-size="9" text-anchor="middle">Performance</text>
-  </a>
+  <g stroke="#00fff7" fill="none">
+    <path d="M450 125 C410 95 360 85 300 75"/>
+    <path d="M450 125 C450 95 450 85 450 75"/>
+    <path d="M450 125 C490 95 540 85 600 75"/>
+  </g>
+
+  <g class="node slow" fill="#050b12" stroke="#00fff7" stroke-width="2">
+    <rect x="260" y="45" rx="16" width="110" height="34"/>
+    <text x="315" y="68" fill="#00fff7" text-anchor="middle">HTML</text>
+
+    <rect x="390" y="45" rx="16" width="110" height="34"/>
+    <text x="445" y="68" fill="#00fff7" text-anchor="middle">CSS</text>
+
+    <rect x="520" y="45" rx="16" width="120" height="34"/>
+    <text x="580" y="68" fill="#00fff7" text-anchor="middle">React</text>
+  </g>
+
+  <!-- ================= BACKEND ================= -->
+  <g class="node slower">
+    <rect x="640" y="250" rx="24" width="230" height="50"
+          fill="#050b12" stroke="#8be9fd" stroke-width="2"/>
+    <text x="755" y="283" fill="#8be9fd" text-anchor="middle">BACKEND</text>
+  </g>
+
+  <g stroke="#8be9fd" fill="none">
+    <path d="M870 275 C920 240 970 215 1020 190"/>
+    <path d="M870 275 C930 275 980 275 1030 275"/>
+    <path d="M870 275 C920 310 970 335 1020 360"/>
+  </g>
+
+  <g class="node slow" fill="#050b12" stroke="#8be9fd" stroke-width="2">
+    <rect x="1010" y="170" rx="16" width="130" height="34"/>
+    <text x="1075" y="193" fill="#8be9fd" text-anchor="middle">Node.js</text>
+
+    <rect x="1030" y="255" rx="16" width="130" height="34"/>
+    <text x="1095" y="278" fill="#8be9fd" text-anchor="middle">Express</text>
+
+    <rect x="1010" y="340" rx="16" width="150" height="34"/>
+    <text x="1085" y="363" fill="#8be9fd" text-anchor="middle">REST APIs</text>
+  </g>
+
+  <!-- ================= DATABASE ================= -->
+  <g class="node">
+    <rect x="335" y="420" rx="24" width="230" height="50"
+          fill="#050b12" stroke="#50fa7b" stroke-width="2"/>
+    <text x="450" y="453" fill="#50fa7b" text-anchor="middle">DATABASE</text>
+  </g>
+
+  <g stroke="#50fa7b" fill="none">
+    <path d="M450 470 C410 515 360 545 300 575"/>
+    <path d="M450 470 C490 515 540 545 600 575"/>
+  </g>
+
+  <g class="node slow" fill="#050b12" stroke="#50fa7b" stroke-width="2">
+    <rect x="260" y="575" rx="16" width="150" height="34"/>
+    <text x="335" y="598" fill="#50fa7b" text-anchor="middle">MongoDB</text>
+
+    <rect x="450" y="575" rx="16" width="170" height="34"/>
+    <text x="535" y="598" fill="#50fa7b" text-anchor="middle">PostgreSQL</text>
+  </g>
+
+  <!-- ================= LANGUAGES ================= -->
+  <g class="node slower">
+    <rect x="30" y="250" rx="24" width="230" height="50"
+          fill="#050b12" stroke="#bd93f9" stroke-width="2"/>
+    <text x="145" y="283" fill="#bd93f9" text-anchor="middle">LANGUAGES</text>
+  </g>
+
+  <g stroke="#bd93f9" fill="none">
+    <path d="M30 275 C-40 240 -90 215 -140 190"/>
+    <path d="M30 275 C-50 275 -100 275 -150 275"/>
+    <path d="M30 275 C-40 310 -90 335 -140 360"/>
+  </g>
+
+  <g class="node slow" fill="#050b12" stroke="#bd93f9" stroke-width="2">
+    <rect x="-260" y="170" rx="16" width="170" height="34"/>
+    <text x="-175" y="193" fill="#bd93f9" text-anchor="middle">JavaScript</text>
+
+    <rect x="-260" y="255" rx="16" width="170" height="34"/>
+    <text x="-175" y="278" fill="#bd93f9" text-anchor="middle">TypeScript</text>
+
+    <rect x="-260" y="340" rx="16" width="170" height="34"/>
+    <text x="-175" y="363" fill="#bd93f9" text-anchor="middle">C / C++</text>
+  </g>
 
 </svg>
