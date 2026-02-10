@@ -89,7 +89,7 @@
 
 ---
 
-##  Contribution & Activity (Lifetime)
+##  Contribution & Activity
 
 <table align="center">
   <tr>
