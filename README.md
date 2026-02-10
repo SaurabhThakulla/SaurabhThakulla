@@ -29,7 +29,7 @@
 
 ---
 
-### <p align="center"><b><code> BACKEND</code></b></p>
+### <p align="center"><b><code> BACKEND </code></b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NODE.JS-000?style=for-the-badge&logo=node.js&logoColor=00fff7"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### <p align="center"><b><code> DATABASE</code></b></p>
+### <p align="center"><b><code> DATABASE </code></b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MONGODB-000?style=for-the-badge&logo=mongodb&logoColor=00fff7"/>
@@ -48,7 +48,7 @@
 
 ---
 
-### <p align="center"><b><code> DEVOPS</code></b></p>
+### <p align="center"><b><code> DEVOPS </code></b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DOCKER-000?style=for-the-badge&logo=docker&logoColor=00fff7"/>
@@ -58,7 +58,7 @@
 
 ---
 
-### <p align="center"><b><code> SYSTEM DESIGN</code></b></p>
+### <p align="center"><b><code> SYSTEM DESIGN </code></b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/REDIS-000?style=for-the-badge&logo=redis&logoColor=00fff7"/>
@@ -69,7 +69,7 @@
 
 ---
 
-### <p align="center"><b><code> LANGUAGES</code></b></p>
+### <p align="center"><b><code> LANGUAGES </code></b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript&logoColor=00fff7"/>
