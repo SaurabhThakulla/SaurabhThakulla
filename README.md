@@ -37,6 +37,28 @@
 </p>
 
 ---
+---
+
+### <p align="center"><b><code> LIBRARIES & TOOLS </code></b></p>
+
+<p align="center">
+
+  <!-- Frontend Libraries -->
+  <img src="https://img.shields.io/badge/TANSTACK-000?style=for-the-badge&logo=reactquery&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/AXIOS-000?style=for-the-badge&logo=axios&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/ZUSTAND-000?style=for-the-badge&logo=react&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/SHADCN_UI-000?style=for-the-badge&logo=react&logoColor=00fff7"/>
+
+  <!-- Backend Libraries -->
+  <img src="https://img.shields.io/badge/ZOD-000?style=for-the-badge&logo=typescript&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/MULTER-000?style=for-the-badge&logo=nodedotjs&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/POSTMAN-000?style=for-the-badge&logo=postman&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/SWAGGER-000?style=for-the-badge&logo=swagger&logoColor=00fff7"/>
+
+</p>
+
+---
+
 
 ### <p align="center"><b><code> DATABASE </code></b></p>
 
@@ -54,6 +76,12 @@
   <img src="https://img.shields.io/badge/DOCKER-000?style=for-the-badge&logo=docker&logoColor=00fff7"/>
   <img src="https://img.shields.io/badge/KUBERNETES-000?style=for-the-badge&logo=kubernetes&logoColor=00fff7"/>
   <img src="https://img.shields.io/badge/NGINX-000?style=for-the-badge&logo=nginx&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-000?style=for-the-badge&logo=githubactions&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/GITLAB-000?style=for-the-badge&logo=gitlab&logoColor=00fff7"/>
+
+
 </p>
 
 ---
