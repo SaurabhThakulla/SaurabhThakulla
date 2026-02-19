@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/AXIOS-000?style=for-the-badge&logo=axios&logoColor=00fff7"/>
   <img src="https://img.shields.io/badge/ZUSTAND-000?style=for-the-badge&logo=react&logoColor=00fff7"/>
   <img src="https://img.shields.io/badge/SHADCN_UI-000?style=for-the-badge&logo=react&logoColor=00fff7"/>
+  <img src="https://img.shields.io/badge/CONTEXT_API-000?style=for-the-badge&logo=react&logoColor=00fff7"/>
 
   <!-- Backend Libraries -->
   <img src="https://img.shields.io/badge/ZOD-000?style=for-the-badge&logo=typescript&logoColor=00fff7"/>
