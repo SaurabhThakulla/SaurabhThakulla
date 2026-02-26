@@ -10,6 +10,11 @@
  <img src="https://img.shields.io/badge/Internship-Mentodesk-00fff7?style=for-the-badge&labelColor=0d1117" />
 
 </p>
+<p align="center">
+  <a href="./Saurav%20Thakulla%20-%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00fff7" />
+  </a>
+</p>
 
 ---
 
