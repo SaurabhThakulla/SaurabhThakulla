@@ -11,7 +11,7 @@
 
 </p>
 <p align="center">
- <a href="./Saurav_Thakulla_Resume_2026_Web_Developer.pdf" target="_blank">
+ <a href="./Saurav_Thakulla_Resume_2026_Web_Developer_Corrected.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download%20CV-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00fff7" />
 </a>
 </p>
